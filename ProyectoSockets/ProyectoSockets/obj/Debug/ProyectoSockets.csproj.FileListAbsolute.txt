@@ -1,0 +1,8 @@
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\bin\Debug\ProyectoSockets.exe.config
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\bin\Debug\ProyectoSockets.exe
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\bin\Debug\ProyectoSockets.pdb
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\obj\Debug\ProyectoSockets.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\obj\Debug\ProyectoSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\obj\Debug\ProyectoSockets.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\obj\Debug\ProyectoSockets.exe
+C:\Users\IamBatman\source\repos\ProyectoSockets\ProyectoSockets\obj\Debug\ProyectoSockets.pdb
