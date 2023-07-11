@@ -1,8 +1,0 @@
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\bin\Debug\ClienteUsuario.exe.config
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\bin\Debug\ClienteUsuario.exe
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\bin\Debug\ClienteUsuario.pdb
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\obj\Debug\ClienteUsuario.csproj.AssemblyReference.cache
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\obj\Debug\ClienteUsuario.csproj.SuggestedBindingRedirects.cache
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\obj\Debug\ClienteUsuario.csproj.CoreCompileInputs.cache
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\obj\Debug\ClienteUsuario.exe
-C:\Users\IamBatman\source\repos\ProyectoSockets\ClienteUsuario\obj\Debug\ClienteUsuario.pdb
