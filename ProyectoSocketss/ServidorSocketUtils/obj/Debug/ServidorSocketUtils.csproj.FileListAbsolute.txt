@@ -1,0 +1,6 @@
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+C:\Users\laboratorio2\source\repos\ProyectoSocketss\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
